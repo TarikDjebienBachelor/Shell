@@ -1,0 +1,5 @@
+man -k printf
+              Recherche la description courte et le nom des  pages  de  manuel
+              comportant  le  mot-clé  printf,  utilisé  comme  une expression
+              rationnelle, puis affiche tout ce qui a été trouvé.  Cette  com‐
+              mande est équivalente à apropos -r printf.
